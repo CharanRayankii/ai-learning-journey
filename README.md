@@ -19,17 +19,17 @@ This is my personal learning journey documenting my progress from beginner to AI
 - Python Fundamentals (Coming Soon)
 - Mathematical Foundations (Coming Soon)
 
-### Phase 2: Machine Learning Basics (Upcoming)
+### Phase 2: Machine Learning Basics
 - Supervised Learning
 - Unsupervised Learning
 - Model Evaluation
 
-### Phase 3: Deep Learning (Upcoming)
+### Phase 3: Deep Learning
 - Neural Networks
 - CNNs, RNNs, LSTMs
 - Transformers
 
-### Phase 4: Real-World Projects (Upcoming)
+### Phase 4: Real-World Projects
 - End-to-end ML solutions
 - Portfolio building
 
