@@ -12,14 +12,14 @@ Learn to set up Python virtual environments - a crucial first step!
 - Package management
 - Best practices
 
-### 2. Python Fundamentals (Coming Soon)
+### 2. Python Fundamentals 
 - Data types & operators
 - Control flow
 - Functions & modules
 - OOP basics
 - File handling
 
-### 3. Mathematical Foundations (Coming Soon)
+### 3. Mathematical Foundations 
 - Linear Algebra
 - Probability & Statistics
 - Calculus basics
