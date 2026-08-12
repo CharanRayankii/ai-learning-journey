@@ -15,6 +15,7 @@ Learn to set up Python virtual environments - a crucial first step!
 ### 2. Python Fundamentals 
 - Data types & operators
 - Control flow
+- Data structures
 - Functions & modules
 - OOP basics
 - File handling

@@ -16,7 +16,7 @@ This is my personal learning journey documenting my progress from beginner to AI
 
 ### Phase 1: Foundations (Current 🔄)
 - [Environment Setup](./fundamentals/environment-setup/) - Python venv, virtualenv, conda
-- Python Fundamentals (Coming Soon)
+- Python Fundamentals (In Progress) - control flow, data structures
 - Mathematical Foundations (Coming Soon)
 
 ### Phase 2: Machine Learning Basics
@@ -45,7 +45,8 @@ ai-learning-journey/
 │
 ├── fundamentals/              # Phase 1: Foundations
 │   ├── environment-setup/     # Virtual environment setup (3 methods)
-│   ├── python-basics/         # Python fundamentals (Coming Soon)
+│   ├── 2-Control Flow/        # Python control flow examples and practice
+│   ├── 3-Data Structures/     # Lists, tuples, sets, dictionaries
 │   └── math-foundations/      # Linear algebra, stats (Coming Soon)
 │
 ├── machine-learning/          # Phase 2: ML Algorithms
@@ -135,9 +136,11 @@ cd fundamentals/environment-setup
 
 ## 📊 Topics Covered So Far
 
-### ✅ Week 1: Environment Setup
+### ✅ Week 1: Foundations
 - [x] Python virtual environment setup (venv, virtualenv, conda)
 - [x] Understanding 3 methods
+- [x] Control flow practice
+- [x] Data structures practice
 - [ ] Package management
 - [ ] Setting up first project
 

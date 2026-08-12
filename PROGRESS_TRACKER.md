@@ -4,9 +4,9 @@
 
 ---
 
-## 🔥 Current Streak
-- **Days Committed:** 1 day
-- **Last Update:** 2026-07-19
+## 🔥 Current Progress
+- **Days Committed:** 3 days
+- **Last Update:** 2026-08-12
 - **Status:** 🟢 Active
 
 ---
@@ -14,7 +14,7 @@
 ## 📈 Overall Progress
 
 ```
-████░░░░░░░░░░░░░░░░░  10% Complete (Phase 1/4)
+██████░░░░░░░░░░░░░░  25% Complete (Phase 1/4)
 ```
 
 | Phase | Progress | Status | Start | Target |
@@ -33,6 +33,11 @@
   - Created comprehensive guide
   - Documented 3 methods
   - Added comparison table
+- [x] Control Flow
+  - Added conditional and loop examples
+  - Copied `Conditionalstatements.ipynb` and `Loops.ipynb`
+- [x] Data Structures
+  - Added list, tuple, set, and dictionary practice notebooks
 
 ### 🔄 In Progress
 - [ ] Python Fundamentals
@@ -40,7 +45,6 @@
 
 ### ⏳ Upcoming
 - [ ] Data types & variables
-- [ ] Control flow
 - [ ] Functions
 - [ ] OOP basics
 
@@ -95,10 +99,14 @@
 │
 ├── ✅ daily-learning/              Daily practice organized by date
 │   ├── ✅ README.md
-│   └── ✅ 2026-07-19/
-│       ├── ✅ notes.md
-│       ├── ✅ venv-practice.py
-│       └── ✅ resources.md
+│   ├── ✅ 2026-07-19/
+│   │   ├── ✅ notes.md
+│   │   ├── ✅ venv-practice.py
+│   │   └── ✅ resources.md
+│   ├── ✅ 2026-08-09/
+│   │   └── ✅ notes.md
+│   └── ✅ 2026-08-12/
+│       └── ✅ notes.md
 │
 ├── 📁 machine-learning/            Phase 2 (empty)
 ├── 📁 deep-learning/               Phase 3 (empty)

@@ -71,18 +71,40 @@ This document tracks my daily learning journey. Each day I'll document what I le
 
 ## 2026-07-21 (Day 3)
 **Topic:** Python Fundamentals - Control Flow  
-**Status:** ⏳ Upcoming
+**Status:** ✅ Completed
 
 ### 📚 What I Learned:
-- [ ] if/elif/else statements
-- [ ] for loops
-- [ ] while loops
-- [ ] Loop control (break, continue, pass)
+- [x] if/elif/else statements
+- [x] for loops
+- [x] while loops
+- [x] Loop control (break, continue, pass)
 - [ ] List comprehensions
+
+### 💻 Code Practice:
+- Reviewed `daily-learning/2026-08-09/notes.md`
+- Copied and practiced from `fundamentals/2-Control Flow/Conditionalstatements.ipynb`
+- Added control flow examples for real scenarios
 
 ---
 
-## 2026-07-22 (Day 4)
+## 2026-08-12 (Day 4)
+**Topic:** Python Fundamentals - Data Structures  
+**Status:** ✅ Completed
+
+### 📚 What I Learned:
+- [x] Lists
+- [x] Tuples
+- [x] Sets
+- [x] Dictionaries
+- [ ] Data structure comparisons and use cases
+
+### 💻 Code Practice:
+- Copied notebooks into `fundamentals/3-Data Structures/`
+- Added examples for list operations, tuple immutability, set uniqueness, and dictionary lookups
+
+---
+
+## 2026-07-22 (Day 5)
 **Topic:** Python Fundamentals - Functions  
 **Status:** ⏳ Upcoming
 

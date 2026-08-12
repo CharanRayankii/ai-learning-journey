@@ -16,7 +16,8 @@ This document outlines my structured learning path towards building a career in 
 
 ### Week 2-3: Python Fundamentals
 - [ ] Data types, variables, operators
-- [ ] Control flow (if, loops)
+- [x] Control flow (if, loops)
+- [x] Data structures (lists, tuples, sets, dictionaries)
 - [ ] Functions and modules
 - [ ] OOP basics
 - [ ] File handling
